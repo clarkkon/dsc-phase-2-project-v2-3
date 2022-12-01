@@ -37,6 +37,8 @@ Grade: Increasing the grade of your home (the construction quality and design) c
 Bathrooms: Each additional bathroom could increase your home’s value by $50,786. 
 
 
+
+
 Navigating the repository:
 
 Data can be found in zippedData folder
