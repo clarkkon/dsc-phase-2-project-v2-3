@@ -28,7 +28,10 @@ I created the following visualizations from this data:
 
 I ran 256 different models and determined that the combination of features with the highest training and validation scores included all features (all columns listed above).
 
-My model was able to explain around 64% of the variance of the price of a home.  
+My model was able to explain around 64% of the variance of the price of a home.
+
+![Final Model](https://user-images.githubusercontent.com/98120389/205406935-c8ace9ba-92c2-4262-a53d-9dfefacc72a8.PNG)
+
 
 # Conclusion and Recommendations:
 
