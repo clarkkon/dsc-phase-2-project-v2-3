@@ -26,7 +26,9 @@ I created the following visualizations from this data:
 
 ![Third Most Correlated Feature and Sale Price](https://user-images.githubusercontent.com/98120389/204942510-94596214-a02c-49d6-b3c8-468dedb05e98.png)
 
-I ran 256 different models and determined that the combination of features with the highest training and validation scores included all features (all columns listed above).  
+I ran 256 different models and determined that the combination of features with the highest training and validation scores included all features (all columns listed above).
+
+My model was able to explain around 64% of the variance of the price of a home.  
 
 # Conclusion and Recommendations:
 
