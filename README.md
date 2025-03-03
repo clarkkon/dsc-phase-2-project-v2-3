@@ -10,7 +10,7 @@ Questions: What features of a home increase its value?  Which features increase 
 
 This data comes from the King County House Sales dataset.
 
-The primary columns I used from these databases to determine movie success were:
+The primary columns I used from these databases to determine home sale features were:
 
 price bedrooms bathrooms sqft_living sqft_lot floors waterfront condition grade yr_built
 
